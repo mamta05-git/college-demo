@@ -1,3 +1,4 @@
 # college-demo
-This is my first  git repository
-author-mamta jangid
+This is my first  git repository.
+<br> 
+Author-mamta jangid
